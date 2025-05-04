@@ -19,7 +19,7 @@ This interactive Streamlit app blends sharp financial analysis with predictive m
 
 🔗 **Experience it Live:**  (https://squidstock-survival-ap3bvlzadwjv3sjz6zapwp.streamlit.app/))
 
-🎥 **Watch the Walkthrough:** https://lnkd.in/d2k6f4Xx
+🎥 **Watch the Walkthrough:** https://shorturl.at/D8G9R
 
 
 ---
