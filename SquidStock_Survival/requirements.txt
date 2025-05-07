@@ -4,3 +4,6 @@ numpy
 matplotlib
 plotly
 seaborn
+yfinance
+scikit-learn
+Pillow
